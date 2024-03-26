@@ -5,6 +5,5 @@
         <mapping class="com.qy.buguweather.db.City" />
         <mapping class="com.qy.buguweather.db.County" />
         <mapping class="com.qy.buguweather.db.Province" />
-
     </list>
 </litepal>

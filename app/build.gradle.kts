@@ -44,6 +44,7 @@ dependencies {
     implementation ("com.github.bumptech.glide:glide:3.7.0")
     implementation ("com.google.code.gson:gson:2.8.9")
     implementation ("com.squareup.okhttp3:okhttp:3.10.0")
+    implementation ("androidx.swiperefreshlayout:swiperefreshlayout:1.1.0")
 
 
 }
